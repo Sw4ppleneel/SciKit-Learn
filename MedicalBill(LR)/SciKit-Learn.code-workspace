@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Downloads/rossmann-store-sales"
+		},
+		{
+			"path": "../../Downloads/ml-latest-small"
+		}
+	],
+	"settings": {}
+}
