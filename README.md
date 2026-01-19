@@ -191,8 +191,8 @@ SciKit-Learn/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sw4ppleneel/Aussie-Rains.git
-cd Aussie-Rains
+git clone https://github.com/Sw4ppleneel/SciKit-Learn.git
+cd SciKit-Learn
 
 # Install dependencies
 pip install -r requirements.txt
