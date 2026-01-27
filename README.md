@@ -2,6 +2,8 @@
 
 A comprehensive collection of machine learning notebooks covering **supervised learning**, **unsupervised learning**, **gradient boosting**, and **recommender systems** using Scikit-Learn and related libraries.
 
+Credit : This repository is inspired and learn from Jovian's Zero to Master Data science course! Do check out the amazing resources they have!!
+
 ## � Notebooks Overview
 
 | Notebook | Algorithm | Dataset | Task Type |
